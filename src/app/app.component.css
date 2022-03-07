@@ -1,0 +1,21 @@
+div{
+    display:flex;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: -10px 10px 10px red;
+    background-color: blueviolet;
+    
+    
+    
+
+    
+}
+button{
+    margin:0 40px 0 40px;
+
+
+}
